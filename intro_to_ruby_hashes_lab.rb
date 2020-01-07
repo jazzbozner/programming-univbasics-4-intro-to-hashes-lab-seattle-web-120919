@@ -6,7 +6,7 @@ def my_hash
   {color: "green"}
 end
 
-def pinoeer
+def pioneer
   {name: "Grace Hopper"}
 end
 
