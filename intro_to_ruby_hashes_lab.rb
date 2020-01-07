@@ -3,6 +3,10 @@ def new_hash
 end
 
 def my_hash
-  h = {color: "green"}
+  {color: "green"}
+end
+
+def pinoeer
+  {name: "Grace Hopper"}
 end
 
