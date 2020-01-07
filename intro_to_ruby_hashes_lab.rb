@@ -10,3 +10,7 @@ def pinoeer
   {name: "Grace Hopper"}
 end
 
+def id_generator
+  {id: 1}
+end
+
